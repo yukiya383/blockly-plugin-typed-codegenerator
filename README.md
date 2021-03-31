@@ -1,6 +1,9 @@
 ## What's this?
-A plugin which fixes type for below modules:
+A plugin which fixes type for code generator modules below:
 - "blockly/javascript"
+- "blockly/python"
+
+Other language might be added, but be sure that **only javascript has been verified to work properly**.
 
 This plugin is **only for typescript project**, and has no effect on how it works after compiled.
 
