@@ -1,4 +1,10 @@
 /**
+ * @license
+ * Copyright 2021 yukiya383
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+/**
  * Override declaration of javascript.d.ts
  */
 declare module 'blockly/python' {
